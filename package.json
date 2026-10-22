@@ -1,6 +1,6 @@
 {
   "name": "@enablo/flip-auth",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sign in with Flip (Keycloak OIDC, authorisation code + PKCE) for Node and edge apps, with optional Hono routes. Unofficial; not made by Flip.",
   "keywords": [
     "flip",

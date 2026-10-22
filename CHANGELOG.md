@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+No code changes from 0.1.0. Documentation fixes.
+
 ## 0.1.0
 
 First release.
